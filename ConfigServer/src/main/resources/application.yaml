@@ -1,0 +1,11 @@
+server:
+  port: 8250
+
+
+spring:
+  application:
+    name: ConfigServer
+  profiles:
+    active: native
+
+
